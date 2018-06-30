@@ -1,4 +1,4 @@
-## Website Bookmarker
+# Website Bookmarker
   A simple website bookmarker which uses a static storage.
 
 # Usage
